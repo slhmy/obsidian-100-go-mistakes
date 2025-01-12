@@ -1,5 +1,4 @@
-This is your new *vault*.
+# 100 个 Go 语言错误
 
-Make a note of something, [[create a link]], or try [the Importer](https://help.obsidian.md/Plugins/Importer)!
-
-When you're ready, delete this note and make the vault your own.
+> [!info]
+> 这是一个 Obsidian 知识库，请克隆到本地并使用 Obsidian 打开以获得最好的阅读体验。
